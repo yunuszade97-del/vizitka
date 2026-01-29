@@ -38,10 +38,10 @@ export default function Home() {
           experience: 5,
         }}
         links={{
-          github: "https://github.com/orhanunuszade",
-          telegram: "https://t.me/orhanunuszade",
-          portfolio: "https://orhanunuszade.dev",
-          email: "hello@orhanunuszade.dev",
+          github: "#",
+          telegram: "#",
+          portfolio: "#",
+          email: "",
         }}
       />
 
