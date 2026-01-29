@@ -54,11 +54,12 @@ export default function Home() {
         {" "}·{" "}
         <span className="text-pink-500/60">Tailwind CSS</span>
         <br />
+        <span className="text-neutral-600">Создано </span>
         <a
           href="https://t.me/orhan_yunuszade"
           target="_blank"
           rel="noopener noreferrer"
-          className="text-neutral-500 hover:text-cyan-400 transition-colors mt-1 inline-block"
+          className="text-neutral-500 hover:text-cyan-400 transition-colors"
         >
           @orhan_yunuszade
         </a>
