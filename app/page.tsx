@@ -53,6 +53,15 @@ export default function Home() {
         <span className="text-purple-500/60">TypeScript</span>
         {" "}·{" "}
         <span className="text-pink-500/60">Tailwind CSS</span>
+        <br />
+        <a
+          href="https://t.me/orhan_yunuszade"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-neutral-500 hover:text-cyan-400 transition-colors mt-1 inline-block"
+        >
+          @orhan_yunuszade
+        </a>
       </p>
     </main>
   );
